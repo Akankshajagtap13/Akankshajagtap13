@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gururaj Yadav</h1>
+<h1 align="center">Hi 👋, I'm Akanksha Jagtap</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 ![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
@@ -12,8 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gururaj-yadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabhsikarwar" height="30" width="40" /></a>
-<a href="https://leetcode.com/guru075/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourabhsikarwar" height="30" width="40" /></a>
-</p>
+
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -28,6 +27,6 @@
 </p>
 
 <div align="center">
-<p><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=GURU075&" alt="GururajYadav" /></p>
-<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GURU075&show_icons=true&locale=en&layout=compact" alt="sourabhsikarwar" /></p>
+<p><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akankshajagtap12&" alt="Akanksha Jagtap" /></p>
+<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akankshajagtap13&show_icons=true&locale=en&layout=compact" alt="sourabhsikarwar" /></p>
 </div>
