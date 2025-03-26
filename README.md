@@ -44,18 +44,14 @@
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="40" height="40"/>
   </a>
-  <a href="https://ant.design/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Ant_Design_Logo.svg" alt="Ant Design" width="40" height="40"/>
-  </a>
+  
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vimlogo.svg" alt="VS Code" width="40" height="40"/>
-  </a>
+ 
 </p>
 
 ---
@@ -71,7 +67,7 @@
 
 <div align="center">
   <p>
-    <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akankshajagtap13&theme=react" alt="Akanksha Jagtap" />
+    
   </p>
   <p>
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akankshajagtap13&show_icons=true&locale=en&layout=compact&theme=react" alt="Akanksha Jagtap" />
